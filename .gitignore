@@ -1,2 +1,5 @@
 # Postgres
 pgdata
+
+# Python
+__pycache__
