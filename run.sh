@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker-compose -f docker-compose.yml -p collge-db up -d 
+docker-compose -f docker-compose.yml -p college-db up -d 
